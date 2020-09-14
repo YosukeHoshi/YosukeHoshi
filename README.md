@@ -4,7 +4,7 @@
 **YosukeHoshi/YosukeHoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently developing backend of the application.
+- 🔭 I’m currently developing backend of web application.
 - 🌱 I’m currently learning Data Analyzing and ML(and also Economics) at Tokyo University of Science.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
