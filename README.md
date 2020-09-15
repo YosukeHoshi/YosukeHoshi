@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yosuke Hoshi.(星遥介)
+I'm Yosuke Hoshi.
 <!--
 **YosukeHoshi/YosukeHoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
