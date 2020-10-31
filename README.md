@@ -12,4 +12,4 @@ leather shoes
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?count_private=true&username=YosukeHoshi&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YosukeHoshi&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YosukeHoshi&langs_count=5&hide=jupyter%20notebook,HTML,SCSS)](https://github.com/anuraghazra/github-readme-stats)
